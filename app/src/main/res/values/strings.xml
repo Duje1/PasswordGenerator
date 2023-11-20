@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">Password Generator</string>
+    <string name="tvTitleKey" translatable="false">Password Generator</string>
+    <string name="btnKey">Generate</string>
+    <string name="etLengthKey">Password length</string>
+    <string name="tvResult">Generated Password will show here</string>
+    <string name="exceptionErr">Bad input! Try Again</string>
+</resources>

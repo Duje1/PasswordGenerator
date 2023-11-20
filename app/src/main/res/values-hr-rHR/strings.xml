@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Password Generator</string>
+    <string name="tvTitleKey" translatable="false">Password Generator</string>
+    <string name="btnKey">Generiraj</string>
+    <string name="etLengthKey">Duljina Šifre</string>
+    <string name="tvResult">Generirana šifra se prikazuje ovdje</string>
+    <string name="exceptionErr">Krivi unos! Probajte Opet.</string>
+
+</resources>
